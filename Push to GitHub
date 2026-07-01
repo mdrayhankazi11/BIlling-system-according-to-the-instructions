@@ -1,0 +1,16 @@
+# Navigate to your repository root
+cd /workspaces/python
+
+# Add the new files
+git add week_5/
+
+# Commit changes
+git commit -m "Week 5: Complete Café Billing System
+
+- Added utils.py with calculation and receipt functions
+- Added main.py as program entry point
+- Added w5_documentation.md with complete documentation
+- Includes input validation and error handling"
+
+# Push to GitHub
+git push origin main
